@@ -1,1 +1,0 @@
-# Database-Modeling-SQL-Practice
