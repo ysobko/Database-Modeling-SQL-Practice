@@ -1,5 +1,5 @@
 Додала тести для перевірки коду.
-Також кейси де quantity = 0, product_id неіснуючий, negative price, щоб виводило помилки.
+Також кейси де quantity = 0, product_id неіснуючий, негативна price, щоб виводило помилки.
 
 INSERT INTO customers (name, email) VALUES
 ('Anna', 'annaaa@abc.com');
